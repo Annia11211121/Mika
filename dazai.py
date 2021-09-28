@@ -1,0 +1,1 @@
+print('Dazai sang kakoi')
